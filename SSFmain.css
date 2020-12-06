@@ -1,0 +1,129 @@
+#sidebar
+{   
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 0px;  
+    text-align: left;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+
+img
+{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    padding: 1px;
+}
+
+nav ul
+{
+ list-style-type: none;
+ display: inline-block;
+}
+
+.RGlasper
+{
+    position: relative;
+    height: 250px;
+    width: 850px;
+    border: 2px solid black;
+    padding: 5px;
+}
+.artistBioRG
+{
+    position: relative;
+    /* margin-top: -20px; */
+    /* margin-left: 500px; */
+    float: right;
+    width: 300px;
+    margin-right: 300px;
+}
+.artistPicRG
+{
+    position: relative;
+    /* margin-top: -75px; */
+    margin-left: 60px;
+}
+
+
+.JDefrancesco
+{
+    position: relative;
+    height: 250px;
+    width: 850px;
+    margin-top: 25px;
+    border: 2px solid black;
+    padding: 5px;
+}
+.artistBioJF
+{   
+    position: relative;
+    margin-top: -20px;
+    float: left;
+    width: 300px;
+    margin-left: 60px;
+}
+.artistPicJF
+{   
+    margin-left: 400px;
+}
+
+.JPoyser
+{
+    position: relative;
+    height: 250px;
+    width: 850px;
+    margin-top: 25px;
+    border: 2px solid black;
+    padding: 5px
+}
+.artistBioJP
+{
+    position: relative;
+    /* margin-top: -20px;  */
+    float: right;
+    width: 300px;
+    margin-right: 300px;
+}
+
+.artistPicJP
+{
+    position: relative;
+    margin-left: 60px;
+}
+
+.PPalladino
+{
+    position: relative;
+    height: 250px;
+    width: 850px;
+    margin-top: 25px;
+    border: 2px solid black;
+    padding: 5px
+}
+.artistBioPP
+{
+    position: relative;
+    margin-top: -20px;
+    float: left;
+    width: 300px;
+    margin-left: 60px;
+}
+.artistPicPP
+{
+    margin-left: 400px;
+}
+
+#footer ul
+{
+    display: inline;
+    margin-top: 35px;
+}
+
+.MoveDown
+{
+    padding-top: 15px;
+}
